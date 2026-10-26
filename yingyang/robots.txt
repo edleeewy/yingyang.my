@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yingyang.my/sitemap-index.xml
